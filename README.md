@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ahmedalaminn?theme=wtf&font=Nobile&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ahmedalaminn?theme=dark&font=Nobile&ext=heatmap)
 
