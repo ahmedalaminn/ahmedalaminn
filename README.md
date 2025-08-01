@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my iOS app and a fantasy football 
+- 🔭 I’m currently working on my iOS app and a ML model for fantasy football
 - 🌱 I’m currently learning full-stack deployment and machine learning
 - 👯 I’m looking to collaborate on anything software engineering!
 - 💬 Ask me about anything!
