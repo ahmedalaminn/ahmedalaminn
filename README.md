@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything software engineering!
 - ⚡ Fun fact: My favorite snack is a chocolate chip cookie
 
-- 📫 How to reach me: ahmedalamin957@gmail.com or LinkedIn
+- 📫 How to reach me: LinkedIn
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ahmedalaminn?theme=dark&font=Nobile&ext=heatmap)
 
