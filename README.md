@@ -1,14 +1,10 @@
-<!--
-**ahmedalaminn/ahmedalaminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Ahmed, a rising junior majoring in Computer Science at Georgia Tech with a strong interest in software engineering and machine learning. 
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on an iOS app
-- 🌱 I’m currently learning full-stack development and machine learning
-- 👯 I’m looking to collaborate on anything software engineering!
-- ⚡ Fun fact: My favorite snack is a chocolate chip cookie
+This summer, I'm interning at EY in Tech Consulting, where I'm contributing to the development of an internal product that leverages AI and full-stack development to streamline the software development cycle. I also recently completed the course portion of the Break Through Tech AI Fellowship, earning a certificate from Cornell University in Machine Learning Foundations.
 
-- 📫 How to reach me: LinkedIn
+Outside of internships and academics, I am most actively involved with ColorStack, supporting its mission on campus as a member of the e-board.
+
+Feel free to reach out about anything on LinkedIn!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ahmedalaminn?theme=dark&font=Nobile&ext=heatmap)
 
